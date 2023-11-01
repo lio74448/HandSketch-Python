@@ -1,0 +1,2 @@
+# HandSketch-Python
+这个代码库提供了一个用于生成手绘效果的Python库，基于OpenCV和NumPy。它包含了多种方法和参数，可以让你自定义手绘图像的风格和效果
